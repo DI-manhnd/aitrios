@@ -1,7 +1,7 @@
 # **Console Access Library - Quick Start Guide**
 ## Steps to install Console Access Library and get started with Demo application.
 
-
+/workspace/.devcontainer/Dependencies/aitrios-sdk-console-access-lib-python/requirements.txt
 1. Create virtual environment
     ```
     python -m venv venv_console_access_library

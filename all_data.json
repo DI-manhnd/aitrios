@@ -1,0 +1,842 @@
+[
+    [
+        {
+            "age": 50,
+            "device_id": "sid-100A50500A2001079164012000000000",
+            "stay_time": 8990,
+            "direction_pitch": -20,
+            "direction_yaw": 999,
+            "customer_id": "customer-231",
+            "detail_watch_time": [],
+            "gender": "male",
+            "max_watch_duration": 0,
+            "status": "counted",
+            "store_id": "store-8123",
+            "timestamp": "2024-04-19T19:52:06.359000+09:00",
+            "tracking_id": "217",
+            "watch_start_time": null,
+            "watch_time": 0,
+            "first": [
+                355,
+                53,
+                31,
+                33
+            ],
+            "last": [
+                355,
+                52,
+                31,
+                31
+            ],
+            "conf": [
+                355,
+                53,
+                31,
+                33
+            ]
+        }
+    ],
+    [
+        {
+            "age": 999,
+            "device_id": "sid-100A50500A2001079164012000000000",
+            "stay_time": 464146,
+            "direction_pitch": -10,
+            "direction_yaw": -90,
+            "customer_id": "customer-231",
+            "detail_watch_time": [],
+            "gender": "female",
+            "max_watch_duration": 0,
+            "status": "counted",
+            "store_id": "store-8123",
+            "timestamp": "2024-04-19T18:28:02.557000+09:00",
+            "tracking_id": "206",
+            "watch_start_time": null,
+            "watch_time": 0,
+            "first": [
+                269,
+                67,
+                22,
+                28
+            ],
+            "last": [
+                275,
+                64,
+                29,
+                31
+            ],
+            "conf": [
+                258,
+                61,
+                25,
+                31
+            ]
+        }
+    ],
+    [
+        {
+            "age": -1,
+            "device_id": "sid-100A50500A2001079164012000000000",
+            "stay_time": 120725,
+            "direction_pitch": -20,
+            "direction_yaw": 999,
+            "customer_id": "customer-231",
+            "detail_watch_time": [],
+            "gender": "male",
+            "max_watch_duration": 0,
+            "status": "counted",
+            "store_id": "store-8123",
+            "timestamp": "2024-04-19T18:32:55.400000+09:00",
+            "tracking_id": "211",
+            "watch_start_time": null,
+            "watch_time": 0,
+            "first": [
+                332,
+                37,
+                33,
+                36
+            ],
+            "last": [
+                387,
+                4,
+                28,
+                58
+            ],
+            "conf": [
+                332,
+                37,
+                33,
+                36
+            ]
+        }
+    ],
+    [
+        {
+            "age": -1,
+            "device_id": "sid-100A50500A2001079164012000000000",
+            "stay_time": 297253,
+            "direction_pitch": 0,
+            "direction_yaw": 80,
+            "customer_id": "customer-231",
+            "detail_watch_time": [],
+            "gender": "male",
+            "max_watch_duration": 0,
+            "status": "counted",
+            "store_id": "store-8123",
+            "timestamp": "2024-04-19T18:28:11.657000+09:00",
+            "tracking_id": "207",
+            "watch_start_time": null,
+            "watch_time": 0,
+            "first": [
+                212,
+                104,
+                12,
+                15
+            ],
+            "last": [
+                183,
+                87,
+                13,
+                17
+            ],
+            "conf": [
+                164,
+                79,
+                19,
+                18
+            ]
+        }
+    ],
+    [
+        {
+            "age": 30,
+            "device_id": "sid-100A50500A2001079164012000000000",
+            "stay_time": 312575,
+            "direction_pitch": -10,
+            "direction_yaw": 999,
+            "customer_id": "customer-231",
+            "detail_watch_time": [
+                {
+                    "start_time": 1713518635982,
+                    "end_time": 1713518644462
+                },
+                {
+                    "start_time": 1713518649452,
+                    "end_time": 1713518658085
+                },
+                {
+                    "start_time": 1713518662595,
+                    "end_time": 1713518676425
+                },
+                {
+                    "start_time": 1713518694955,
+                    "end_time": 1713518699545
+                },
+                {
+                    "start_time": 1713518704135,
+                    "end_time": 1713518722330
+                },
+                {
+                    "start_time": 1713518732220,
+                    "end_time": 1713518759190
+                },
+                {
+                    "start_time": 1713518768820,
+                    "end_time": 1713518777424
+                },
+                {
+                    "start_time": 1713518782394,
+                    "end_time": 1713518795954
+                },
+                {
+                    "start_time": 1713518810254,
+                    "end_time": 1713518823324
+                },
+                {
+                    "start_time": 1713518827784,
+                    "end_time": 1713518850587
+                },
+                {
+                    "start_time": 1713518855097,
+                    "end_time": 1713518859667
+                },
+                {
+                    "start_time": 1713518868737,
+                    "end_time": 1713518887057
+                }
+            ],
+            "gender": "male",
+            "max_watch_duration": 26970,
+            "status": "counted",
+            "store_id": "store-8123",
+            "timestamp": "2024-04-19T18:23:50.922000+09:00",
+            "tracking_id": "201",
+            "watch_start_time": "2024-04-19T18:23:55.982000+09:00",
+            "watch_time": 161625,
+            "first": [
+                286,
+                123,
+                19,
+                21
+            ],
+            "last": [
+                406,
+                95,
+                9,
+                17
+            ],
+            "conf": [
+                308,
+                127,
+                21,
+                27
+            ]
+        }
+    ],
+    [
+        {
+            "age": 999,
+            "device_id": "sid-100A50500A2001079164012000000000",
+            "stay_time": 18084,
+            "direction_pitch": -10,
+            "direction_yaw": -90,
+            "customer_id": "customer-231",
+            "detail_watch_time": [],
+            "gender": "female",
+            "max_watch_duration": 0,
+            "status": "counted",
+            "store_id": "store-8123",
+            "timestamp": "2024-04-19T18:26:04.320000+09:00",
+            "tracking_id": "204",
+            "watch_start_time": null,
+            "watch_time": 0,
+            "first": [
+                224,
+                70,
+                27,
+                33
+            ],
+            "last": [
+                225,
+                70,
+                26,
+                34
+            ],
+            "conf": [
+                226,
+                69,
+                26,
+                35
+            ]
+        }
+    ],
+    [
+        {
+            "age": 30,
+            "device_id": "sid-100A50500A2001079164012000000000",
+            "stay_time": 13910,
+            "direction_pitch": 0,
+            "direction_yaw": 0,
+            "customer_id": "customer-231",
+            "detail_watch_time": [
+                {
+                    "start_time": 1713518690875,
+                    "end_time": 1713518694955
+                }
+            ],
+            "gender": "male",
+            "max_watch_duration": 4080,
+            "status": "counted",
+            "store_id": "store-8123",
+            "timestamp": "2024-04-19T18:24:45.635000+09:00",
+            "tracking_id": "202",
+            "watch_start_time": "2024-04-19T18:24:50.875000+09:00",
+            "watch_time": 4080,
+            "first": [
+                372,
+                87,
+                15,
+                19
+            ],
+            "last": [
+                373,
+                89,
+                15,
+                23
+            ],
+            "conf": [
+                372,
+                87,
+                15,
+                19
+            ]
+        }
+    ],
+    [
+        {
+            "age": 30,
+            "device_id": "sid-100A50500A2001079164012000000000",
+            "stay_time": 445871,
+            "direction_pitch": -30,
+            "direction_yaw": 999,
+            "customer_id": "customer-231",
+            "detail_watch_time": [
+                {
+                    "start_time": 1713518190101,
+                    "end_time": 1713518199571
+                },
+                {
+                    "start_time": 1713518204081,
+                    "end_time": 1713518217651
+                },
+                {
+                    "start_time": 1713518226331,
+                    "end_time": 1713518235454
+                },
+                {
+                    "start_time": 1713518244564,
+                    "end_time": 1713518249144
+                },
+                {
+                    "start_time": 1713518258344,
+                    "end_time": 1713518263424
+                },
+                {
+                    "start_time": 1713518267394,
+                    "end_time": 1713518349896
+                },
+                {
+                    "start_time": 1713518359646,
+                    "end_time": 1713518500206
+                },
+                {
+                    "start_time": 1713518509296,
+                    "end_time": 1713518528146
+                },
+                {
+                    "start_time": 1713518532494,
+                    "end_time": 1713518608692
+                },
+                {
+                    "start_time": 1713518613132,
+                    "end_time": 1713518617622
+                }
+            ],
+            "gender": "male",
+            "max_watch_duration": 140560,
+            "status": "counted",
+            "store_id": "store-8123",
+            "timestamp": "2024-04-19T18:16:30.101000+09:00",
+            "tracking_id": "192",
+            "watch_start_time": "2024-04-19T18:16:30.101000+09:00",
+            "watch_time": 364423,
+            "first": [
+                284,
+                122,
+                18,
+                22
+            ],
+            "last": [
+                243,
+                51,
+                39,
+                46
+            ],
+            "conf": [
+                284,
+                124,
+                19,
+                22
+            ]
+        }
+    ],
+    [
+        {
+            "age": -1,
+            "device_id": "sid-100A50500A2001079164012000000000",
+            "stay_time": 77571,
+            "direction_pitch": -10,
+            "direction_yaw": 60,
+            "customer_id": "customer-231",
+            "detail_watch_time": [],
+            "gender": "male",
+            "max_watch_duration": 0,
+            "status": "counted",
+            "store_id": "store-8123",
+            "timestamp": "2024-04-19T18:12:50.028000+09:00",
+            "tracking_id": "190",
+            "watch_start_time": null,
+            "watch_time": 0,
+            "first": [
+                370,
+                95,
+                15,
+                17
+            ],
+            "last": [
+                383,
+                96,
+                12,
+                18
+            ],
+            "conf": [
+                296,
+                99,
+                12,
+                14
+            ]
+        }
+    ],
+    [
+        {
+            "age": -1,
+            "device_id": "sid-100A50500A2001079164012000000000",
+            "stay_time": 8550,
+            "direction_pitch": -20,
+            "direction_yaw": 80,
+            "customer_id": "customer-231",
+            "detail_watch_time": [],
+            "gender": "male",
+            "max_watch_duration": 0,
+            "status": "counted",
+            "store_id": "store-8123",
+            "timestamp": "2024-04-19T18:12:46.058000+09:00",
+            "tracking_id": "189",
+            "watch_start_time": null,
+            "watch_time": 0,
+            "first": [
+                390,
+                94,
+                13,
+                15
+            ],
+            "last": [
+                389,
+                96,
+                15,
+                17
+            ],
+            "conf": [
+                389,
+                96,
+                15,
+                17
+            ]
+        }
+    ],
+    [
+        {
+            "age": 999,
+            "device_id": "sid-100A50500A2001079164012000000000",
+            "stay_time": 77562,
+            "direction_pitch": -20,
+            "direction_yaw": 80,
+            "customer_id": "customer-231",
+            "detail_watch_time": [],
+            "gender": "male",
+            "max_watch_duration": 0,
+            "status": "counted",
+            "store_id": "store-8123",
+            "timestamp": "2024-04-19T17:58:38.366000+09:00",
+            "tracking_id": "183",
+            "watch_start_time": null,
+            "watch_time": 0,
+            "first": [
+                260,
+                54,
+                26,
+                33
+            ],
+            "last": [
+                230,
+                77,
+                18,
+                22
+            ],
+            "conf": [
+                260,
+                54,
+                26,
+                33
+            ]
+        }
+    ],
+    [
+        {
+            "age": -1,
+            "device_id": "sid-100A50500A2001079164012000000000",
+            "stay_time": 45344,
+            "direction_pitch": -30,
+            "direction_yaw": 999,
+            "customer_id": "customer-231",
+            "detail_watch_time": [],
+            "gender": "male",
+            "max_watch_duration": 0,
+            "status": "counted",
+            "store_id": "store-8123",
+            "timestamp": "2024-04-19T17:05:44.236000+09:00",
+            "tracking_id": "174",
+            "watch_start_time": null,
+            "watch_time": 0,
+            "first": [
+                286,
+                116,
+                15,
+                16
+            ],
+            "last": [
+                280,
+                99,
+                13,
+                16
+            ],
+            "conf": [
+                295,
+                115,
+                13,
+                15
+            ]
+        }
+    ],
+    [
+        {
+            "age": -1,
+            "device_id": "sid-100A50500A2001079164012000000000",
+            "stay_time": 9034,
+            "direction_pitch": -10,
+            "direction_yaw": 999,
+            "customer_id": "customer-231",
+            "detail_watch_time": [],
+            "gender": "female",
+            "max_watch_duration": 0,
+            "status": "counted",
+            "store_id": "store-8123",
+            "timestamp": "2024-04-19T17:06:16.016000+09:00",
+            "tracking_id": "175",
+            "watch_start_time": null,
+            "watch_time": 0,
+            "first": [
+                235,
+                93,
+                14,
+                15
+            ],
+            "last": [
+                242,
+                94,
+                13,
+                14
+            ],
+            "conf": [
+                235,
+                93,
+                14,
+                15
+            ]
+        }
+    ],
+    [
+        {
+            "age": -1,
+            "device_id": "sid-100A50500A2001079164012000000000",
+            "stay_time": 432081,
+            "direction_pitch": 0,
+            "direction_yaw": 999,
+            "customer_id": "customer-231",
+            "detail_watch_time": [],
+            "gender": "male",
+            "max_watch_duration": 0,
+            "status": "counted",
+            "store_id": "store-8123",
+            "timestamp": "2024-04-19T16:56:47.042000+09:00",
+            "tracking_id": "166",
+            "watch_start_time": null,
+            "watch_time": 0,
+            "first": [
+                289,
+                119,
+                13,
+                15
+            ],
+            "last": [
+                296,
+                104,
+                11,
+                13
+            ],
+            "conf": [
+                287,
+                116,
+                14,
+                16
+            ]
+        }
+    ],
+    [
+        {
+            "age": -1,
+            "device_id": "sid-100A50500A2001079164012000000000",
+            "stay_time": 231429,
+            "direction_pitch": -20,
+            "direction_yaw": 999,
+            "customer_id": "customer-231",
+            "detail_watch_time": [],
+            "gender": "male",
+            "max_watch_duration": 0,
+            "status": "counted",
+            "store_id": "store-8123",
+            "timestamp": "2024-04-19T16:59:57.974000+09:00",
+            "tracking_id": "169",
+            "watch_start_time": null,
+            "watch_time": 0,
+            "first": [
+                241,
+                114,
+                15,
+                18
+            ],
+            "last": [
+                216,
+                94,
+                12,
+                14
+            ],
+            "conf": [
+                203,
+                117,
+                13,
+                15
+            ]
+        }
+    ],
+    [
+        {
+            "age": -1,
+            "device_id": "sid-100A50500A2001079164012000000000",
+            "stay_time": 4468,
+            "direction_pitch": -20,
+            "direction_yaw": 999,
+            "customer_id": "customer-231",
+            "detail_watch_time": [],
+            "gender": "male",
+            "max_watch_duration": 0,
+            "status": "counted",
+            "store_id": "store-8123",
+            "timestamp": "2024-04-19T17:00:11.704000+09:00",
+            "tracking_id": "171",
+            "watch_start_time": null,
+            "watch_time": 0,
+            "first": [
+                97,
+                30,
+                36,
+                43
+            ],
+            "last": [
+                1,
+                7,
+                46,
+                52
+            ],
+            "conf": [
+                97,
+                30,
+                36,
+                43
+            ]
+        }
+    ],
+    [
+        {
+            "age": -1,
+            "device_id": "sid-100A50500A2001079164012000000000",
+            "stay_time": 862539,
+            "direction_pitch": 0,
+            "direction_yaw": 80,
+            "customer_id": "customer-231",
+            "detail_watch_time": [],
+            "gender": "male",
+            "max_watch_duration": 0,
+            "status": "counted",
+            "store_id": "store-8123",
+            "timestamp": "2024-04-19T16:35:30.632000+09:00",
+            "tracking_id": "157",
+            "watch_start_time": null,
+            "watch_time": 0,
+            "first": [
+                292,
+                120,
+                13,
+                15
+            ],
+            "last": [
+                300,
+                119,
+                15,
+                16
+            ],
+            "conf": [
+                294,
+                119,
+                14,
+                15
+            ]
+        }
+    ],
+    [
+        {
+            "age": -1,
+            "device_id": "sid-100A50500A2001079164012000000000",
+            "stay_time": 54800,
+            "direction_pitch": -20,
+            "direction_yaw": 999,
+            "customer_id": "customer-231",
+            "detail_watch_time": [],
+            "gender": "female",
+            "max_watch_duration": 0,
+            "status": "counted",
+            "store_id": "store-8123",
+            "timestamp": "2024-04-19T16:07:10.485000+09:00",
+            "tracking_id": "147",
+            "watch_start_time": null,
+            "watch_time": 0,
+            "first": [
+                296,
+                127,
+                21,
+                22
+            ],
+            "last": [
+                345,
+                87,
+                24,
+                31
+            ],
+            "conf": [
+                296,
+                127,
+                21,
+                22
+            ]
+        }
+    ],
+    [
+        {
+            "age": 40,
+            "device_id": "sid-100A50500A2001079164012000000000",
+            "stay_time": 87719,
+            "direction_pitch": -10,
+            "direction_yaw": 20,
+            "customer_id": "customer-231",
+            "detail_watch_time": [
+                {
+                    "start_time": 1713510271269,
+                    "end_time": 1713510311979
+                }
+            ],
+            "gender": "female",
+            "max_watch_duration": 40710,
+            "status": "counted",
+            "store_id": "store-8123",
+            "timestamp": "2024-04-19T16:03:03.550000+09:00",
+            "tracking_id": "145",
+            "watch_start_time": "2024-04-19T16:04:31.269000+09:00",
+            "watch_time": 40710,
+            "first": [
+                275,
+                100,
+                11,
+                14
+            ],
+            "last": [
+                183,
+                68,
+                20,
+                30
+            ],
+            "conf": [
+                183,
+                68,
+                20,
+                30
+            ]
+        }
+    ],
+    [
+        {
+            "age": -1,
+            "device_id": "sid-100A50500A2001079164012000000000",
+            "stay_time": 280400,
+            "direction_pitch": -20,
+            "direction_yaw": 999,
+            "customer_id": "customer-231",
+            "detail_watch_time": [],
+            "gender": "male",
+            "max_watch_duration": 0,
+            "status": "counted",
+            "store_id": "store-8123",
+            "timestamp": "2024-04-19T15:59:45.739000+09:00",
+            "tracking_id": "135",
+            "watch_start_time": null,
+            "watch_time": 0,
+            "first": [
+                214,
+                97,
+                12,
+                15
+            ],
+            "last": [
+                299,
+                90,
+                13,
+                19
+            ],
+            "conf": [
+                189,
+                76,
+                22,
+                24
+            ]
+        }
+    ]
+]

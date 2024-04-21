@@ -1,0 +1,14 @@
+data_source_settings:
+  mode: "console"     # "console" or "local"
+  console_data_settings:
+    console_data_settings:
+    setting_path: "./config/console_access_settings.yaml"
+    device_id: "sid-100A50500A2001079164012000000000"
+    sub_directory_name: "20231003011600967"
+    # first_timestamp: "__last_timestamp__"
+    # last_timestamp: "__last_timestamp__"
+    number_of_inference_results: 20
+    number_of_images: 20
+
+crowd_count_settings:
+  param_file: "./config/local_default_param.yaml"
